@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I’m Mendes Maria (@MariaMendes) :crystal_ball:
 
-<!--
-**MariaMendess/MariaMendess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MariaMendess)](https://github.com/MariaMendess/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-odete-mendes-23750316b/)](https://www.linkedin.com/in/maria-odete-mendes-23750316b/)
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Nodejs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/MariaMendess/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaMendess&show_icons=true&locale=pt-BR&layout=compact&theme=dark" alt="MariaMendess" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaMendess&show_icons=true&locale=pt-BR&theme=dark" alt="MariaMendess" />
+  </a>
+</p>
+
