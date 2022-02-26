@@ -1,6 +1,6 @@
-# Hi, I’m Mendes Maria (@MariaMendes) :crystal_ball:
+# Hi, I’m Mendes Maria (@mahhdev) :crystal_ball:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MariaMendess)](https://github.com/MariaMendess/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mahhdev)](https://github.com/mahhdev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-odete-mendes-23750316b/)](https://www.linkedin.com/in/maria-odete-mendes-23750316b/)
 
 ![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
@@ -15,9 +15,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <a href="https://github.com/MariaMendess/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaMendess&show_icons=true&locale=pt-BR&layout=compact&theme=dark" alt="MariaMendess" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaMendess&show_icons=true&locale=pt-BR&theme=dark" alt="MariaMendess" />
+  <a href="https://github.com/mahhdev/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahhdev&show_icons=true&locale=pt-BR&layout=compact&theme=dark" alt="mahhdev" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaMendess&show_icons=true&locale=pt-BR&theme=dark" alt="mahhdev" />
   </a>
 </p>
 
