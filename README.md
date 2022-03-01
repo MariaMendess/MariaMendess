@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/mahhdev/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahhdev&show_icons=true&locale=pt-BR&layout=compact&theme=dark" alt="mahhdev" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaMendess&show_icons=true&locale=pt-BR&theme=dark" alt="mahhdev" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahhdev&show_icons=true&locale=pt-BR&theme=dark" alt="mahhdev" />
   </a>
 </p>
 
