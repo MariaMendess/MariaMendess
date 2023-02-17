@@ -6,7 +6,7 @@
 
 ## :purple_square: Sobre mim
 
-#### Dev Full-Stack utilizando as tecnologias <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" width="25" height="25"/></a>
+#### Dev Back-End utilizando as tecnologias <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" width="25" height="25"/></a>
 
 #### Eu sou a Mahh, tenho 25 anos e atualmente moro em São Paulo.
 #### Sou Natural de Garanhuns-PE "Cidade das Flores :cherry_blossom:"
